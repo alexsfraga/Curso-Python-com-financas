@@ -1,0 +1,22 @@
+# AULA 20 - OPERADORES LOGICOS E DE IDENTIDADE
+
+
+#AULA 19 - OPERADORES DE COMPARAÇÃO
+# == NÃO ATRIBUI VALOR MAIS SIM VERIFICA UMA CONDIÇÃO DE IGUALDADE
+print(10 == 20/2)
+    #true
+#  !=  VERIFICA A CONDIÇÃO SE DIFERENTE
+print(10 != 10)
+   #false
+# >  CONDICIONADOR MAIOR QUE
+print(100 > 50)
+   #true
+# <  CONDICIONADOR MENOR QUE
+print(100 < 50)
+   #false
+# >=  CONDICIONADOR MAIOR ou IGUAL
+print(15 >= 10 + 10)
+   #false
+# <=  CONDICIONADOR MENOR ou IGUAL
+print(15 <= 10 + 5)
+   # true
