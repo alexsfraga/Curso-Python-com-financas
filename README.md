@@ -5,7 +5,7 @@
  
  >Windows 10 com o interpretador Python 3 instalado, e fazendo uso da IDE PyCharm Community 2020.2
 
-Material com principal fonte, o curso da udemy ministrado pelo frofessor Erich Ratzat, e criador por "365 Careers" e "Erich Ratzat".
+Material produzido tendo como fonte de conhecimento, o curso da udemy ministrado pelo frofessor Erich Ratzat, e criador por "365 Careers" e "Erich Ratzat".
 Nome do curso: " Python para Finanças: Investimentos & Análise de Dados "
 
 Optei em fazer este curso pelo fato de me identificar com o mundo dos negocios e finanças, e fundamentalmente adquirir conhecimento na linguagem Python.
